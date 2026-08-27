@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#141b2b"/><stop offset="1" stop-color="#697260"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <g fill="none" stroke="#f0f3e8" stroke-width="11" opacity=".76">
+    <path d="M270 610h300l110-270h260l120 270h270"/>
+    <circle cx="470" cy="610" r="90"/><circle cx="1110" cy="610" r="90"/>
+    <path d="M760 240v210M700 310h120M780 240l-65 110M780 240l65 110"/>
+    <path d="M1260 250v230M1190 330h140"/>
+  </g>
+  <text x="100" y="880" fill="#fff" font-size="72" font-family="Arial, sans-serif" font-weight="700">OPERATIONS · COORDINATION</text>
+</svg>

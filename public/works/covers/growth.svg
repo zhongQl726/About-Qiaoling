@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#17272b"/><stop offset="1" stop-color="#7a644d"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <g fill="none" stroke="#fff4df" stroke-width="11" opacity=".76">
+    <circle cx="800" cy="370" r="120"/><path d="M800 250v240M680 370h240"/>
+    <circle cx="420" cy="560" r="75"/><circle cx="800" cy="680" r="75"/><circle cx="1180" cy="560" r="75"/>
+    <path d="M720 450L480 520M800 490v115M880 450l240 70"/>
+    <path d="M330 720h180M710 840h180M1090 720h180"/>
+  </g>
+  <text x="100" y="920" fill="#fff" font-size="72" font-family="Arial, sans-serif" font-weight="700">CAMPUS · GROWTH</text>
+</svg>
